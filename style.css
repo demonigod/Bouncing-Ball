@@ -2,7 +2,7 @@ body {
    margin: 0;
    padding: 0;
    box-sizing: border-box;
-   background-image:url(/images/background-2_4x.png);
+   background-image:url(images/background-2_4x.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 150%;;
